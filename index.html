@@ -1,0 +1,30 @@
+---
+layout: single
+author_profile: true
+title: 서울과학고등학교 3기 동문 홈피
+toc: false
+toc_label: "ToC"
+toc_icon: "cog"
+toc_sticky: true
+---
+
+<div style="margin-top: 2em; margin-bottom: 2em;" class="img-container">
+<img style="max-width: 30%;" src="/assets/images/sshs-logo-bright.png">
+</div>
+
+<h1>설곽, 시간을 초월한 성장의 증언</h1>
+
+설곽 동문 여러분, 여러분의 여정은 졸업과 함께 끝나지 않았습니다.
+서울과학고등학교에서 쌓은 지식과 경험은 여러분을 더욱 빛나게 만들었습니다.
+이곳에서 배운 과학적 사고와 창의력은 여러분이 직면하는 모든 도전을 극복하는 힘이 되었을 것입니다.
+여러분의 성장은 언제나 신선하고, 여러분의 미래는 무궁무진한 가능성으로 가득 차 있습니다.
+설곽 동문으로서 자랑스럽게 걸어가세요.
+
+<h1 id="recent-posts">Recent Posts</h1>
+<ul>
+	{% for post in site.posts limit:10 %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a> &commat; {{ post.date | date: "%d-%b-%Y"}}
+		</li>
+	{% endfor %}
+</ul>
