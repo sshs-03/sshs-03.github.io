@@ -2,7 +2,7 @@
 permalink: /reflections/gathering-03-03-march-2025
 title: 2025년 새해 맞이 3기 동문회
 date: Wed Mar  5 21:23:45 KST 2025
-last_modified_at: Mon Mar 10 06:56:50 PDT 2025
+last_modified_at: Mon Mar 10 14:38:15 PDT 2025
 categories:
  - blog
 tags:
@@ -82,10 +82,9 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 
 # Receipts
 
-<div class="img-container">
+<div class="img-container-justified">
+&nbsp;
 <img style="max-height: 30vh;" src="/resource/alum-gatherings/03-2024-0303/KakaoTalk_Photo_2025-03-05-21-38-37 001.jpeg">
-</div>
-
-<div class="img-container">
 <img style="max-height: 30vh;" src="/resource/alum-gatherings/03-2024-0303/KakaoTalk_Photo_2025-03-05-21-38-37 002.jpeg">
+&nbsp;
 </div>
