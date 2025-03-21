@@ -80,7 +80,7 @@ author:
       url: "https://bawi.org/"
     - label: 서울과학고등학교
       icon: "fa-solid fa-school"
-      url: "https://admission-sshs.info/"
+      url: "https://sshs.sen.hs.kr/"
     - label: 서울과학고등학교
       icon: "fa-solid fa-map-pin"
       url: "https://naver.me/G0DWOoVH"
@@ -99,7 +99,7 @@ footer:
       url: "https://bawi.org/"
     - label: 서울과학고등학교
       icon: "fa-solid fa-school"
-      url: "https://admission-sshs.info/"
+      url: "https://sshs.sen.hs.kr/"
     - label: 서울과학고등학교
       icon: "fa-solid fa-map-pin"
       url: "https://naver.me/G0DWOoVH"
